@@ -1,0 +1,161 @@
+2024-07-01 19:10:26,847 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 19:10:27,150 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:10:27,150 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:10:29,800 :INFO :test_e2e :Getting all the card titles
+2024-07-01 19:10:29,815 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:10:29,823 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:10:29,831 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:10:29,840 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:10:29,888 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 19:10:35,139 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 19:13:30,295 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 19:13:30,592 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:13:30,592 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:13:32,495 :INFO :test_e2e :Getting all the card titles
+2024-07-01 19:13:32,516 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:13:32,523 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:13:32,530 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:13:32,539 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:13:32,598 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 19:13:37,892 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 19:24:03,567 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 19:24:03,836 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:24:03,836 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:24:05,455 :INFO :test_e2e :Getting all the card titles
+2024-07-01 19:24:05,476 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:24:05,482 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:24:05,489 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:24:05,496 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:24:05,551 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 19:24:10,797 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 19:29:08,014 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 19:29:08,324 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:29:08,324 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 19:29:10,024 :INFO :test_e2e :Getting all the card titles
+2024-07-01 19:29:10,043 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:29:10,053 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:29:10,059 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:29:10,067 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 19:29:10,132 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 19:29:15,418 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 20:02:10,911 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 20:02:11,207 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 20:02:11,207 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 20:02:13,034 :INFO :test_e2e :Getting all the card titles
+2024-07-01 20:02:13,052 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:13,058 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:13,064 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:13,071 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:13,128 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 20:02:18,374 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-01 20:02:46,185 :INFO :test_formSubmission :First Name is Ibu
+2024-07-01 20:02:46,487 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 20:02:46,487 :INFO :test_formSubmission :First Name is Bae
+2024-07-01 20:02:48,230 :INFO :test_e2e :Getting all the card titles
+2024-07-01 20:02:48,250 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:48,258 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:48,265 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:48,270 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-01 20:02:48,325 :INFO :test_e2e :Entering country name and Ind
+2024-07-01 20:02:53,558 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-02 20:16:40,673 :INFO :test_formSubmission :First Name is Ibu
+2024-07-02 20:16:40,961 :INFO :test_formSubmission :First Name is Bae
+2024-07-02 20:16:40,961 :INFO :test_formSubmission :First Name is Bae
+2024-07-02 20:16:42,680 :INFO :test_e2e :Getting all the card titles
+2024-07-02 20:16:42,695 :INFO :test_e2e :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-02 20:16:42,701 :INFO :test_e2e :Samsung Note 8
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-02 20:16:42,706 :INFO :test_e2e :Nokia Edge
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-02 20:16:42,712 :INFO :test_e2e :Blackberry
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-07-02 20:16:42,757 :INFO :test_e2e :Entering country name and Ind
+2024-07-02 20:16:48,026 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
